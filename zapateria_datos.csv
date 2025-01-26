@@ -1,0 +1,501 @@
+Fecha de venta,Producto,Cantidad vendida,Precio,Categoría,Tallas
+2023-01-01,Zapato deportivo,6,871,Mujeres,10
+2023-01-02,Zapato deportivo,3,721,Niños,5
+2023-01-03,Sandalias,10,534,Mujeres,5
+2023-01-04,Zapato casual,17,992,Niños,10
+2023-01-05,Zapato casual,20,917,Niños,9
+2023-01-06,Zapato casual,11,1034,Niños,6
+2023-01-07,Zapato deportivo,3,839,Mujeres,8
+2023-01-08,Mocasines,8,1229,Hombres,8
+2023-01-09,Zapato deportivo,10,829,Mujeres,8
+2023-01-10,Mocasines,8,1241,Niños,7
+2023-01-11,Botas,7,1405,Mujeres,6
+2023-01-12,Zapato deportivo,5,799,Mujeres,7
+2023-01-13,Zapato deportivo,1,820,Mujeres,7
+2023-01-14,Zapato deportivo,2,711,Niños,10
+2023-01-15,Zapato casual,8,1062,Niños,7
+2023-01-16,Zapato casual,16,999,Mujeres,11
+2023-01-17,Mocasines,20,1195,Mujeres,9
+2023-01-18,Mocasines,3,1164,Mujeres,9
+2023-01-19,Zapato deportivo,15,891,Hombres,5
+2023-01-20,Mocasines,14,1104,Niños,5
+2023-01-21,Zapato casual,19,991,Hombres,6
+2023-01-22,Mocasines,7,1117,Niños,6
+2023-01-23,Botas,13,1488,Mujeres,11
+2023-01-24,Zapato casual,16,961,Hombres,9
+2023-01-25,Botas,13,1587,Mujeres,5
+2023-01-26,Mocasines,8,1268,Hombres,10
+2023-01-27,Sandalias,5,560,Mujeres,5
+2023-01-28,Zapato deportivo,1,726,Niños,7
+2023-01-29,Zapato casual,4,1097,Mujeres,8
+2023-01-30,Botas,14,1548,Niños,10
+2023-01-31,Sandalias,8,588,Mujeres,8
+2023-02-01,Sandalias,6,593,Mujeres,8
+2023-02-02,Zapato casual,17,985,Niños,9
+2023-02-03,Zapato casual,15,934,Niños,8
+2023-02-04,Sandalias,2,411,Hombres,8
+2023-02-05,Zapato deportivo,18,790,Mujeres,7
+2023-02-06,Zapato deportivo,8,839,Hombres,6
+2023-02-07,Botas,4,1486,Hombres,11
+2023-02-08,Zapato deportivo,15,864,Niños,9
+2023-02-09,Sandalias,5,444,Niños,5
+2023-02-10,Sandalias,15,599,Mujeres,7
+2023-02-11,Mocasines,17,1275,Hombres,8
+2023-02-12,Sandalias,18,518,Mujeres,5
+2023-02-13,Zapato deportivo,20,878,Hombres,7
+2023-02-14,Botas,11,1522,Niños,10
+2023-02-15,Mocasines,15,1261,Mujeres,10
+2023-02-16,Zapato deportivo,20,746,Hombres,9
+2023-02-17,Botas,17,1434,Niños,8
+2023-02-18,Zapato deportivo,14,716,Hombres,9
+2023-02-19,Mocasines,18,1283,Mujeres,10
+2023-02-20,Sandalias,15,598,Niños,7
+2023-02-21,Mocasines,6,1217,Hombres,5
+2023-02-22,Sandalias,16,409,Hombres,6
+2023-02-23,Mocasines,15,1175,Mujeres,8
+2023-02-24,Zapato casual,9,951,Mujeres,9
+2023-02-25,Zapato deportivo,8,711,Mujeres,5
+2023-02-26,Zapato deportivo,9,751,Niños,5
+2023-02-27,Zapato casual,17,910,Niños,6
+2023-02-28,Sandalias,16,480,Mujeres,7
+2023-03-01,Zapato deportivo,8,779,Niños,6
+2023-03-02,Zapato casual,9,1031,Hombres,11
+2023-03-03,Zapato deportivo,15,801,Mujeres,6
+2023-03-04,Botas,3,1539,Niños,11
+2023-03-05,Sandalias,10,521,Niños,7
+2023-03-06,Botas,8,1464,Mujeres,7
+2023-03-07,Sandalias,9,409,Mujeres,7
+2023-03-08,Zapato casual,11,1092,Niños,5
+2023-03-09,Sandalias,11,565,Niños,5
+2023-03-10,Sandalias,18,448,Mujeres,8
+2023-03-11,Zapato casual,3,973,Niños,10
+2023-03-12,Sandalias,5,491,Hombres,8
+2023-03-13,Zapato deportivo,5,899,Niños,6
+2023-03-14,Mocasines,8,1112,Hombres,6
+2023-03-15,Zapato casual,13,1067,Hombres,8
+2023-03-16,Mocasines,5,1184,Niños,9
+2023-03-17,Zapato casual,7,969,Niños,10
+2023-03-18,Zapato casual,3,931,Mujeres,6
+2023-03-19,Botas,14,1494,Hombres,9
+2023-03-20,Botas,14,1511,Niños,9
+2023-03-21,Sandalias,11,502,Hombres,11
+2023-03-22,Mocasines,18,1290,Mujeres,10
+2023-03-23,Zapato casual,15,1012,Hombres,11
+2023-03-24,Sandalias,14,498,Niños,7
+2023-03-25,Zapato deportivo,2,786,Niños,5
+2023-03-26,Zapato casual,7,947,Hombres,8
+2023-03-27,Zapato deportivo,14,827,Mujeres,11
+2023-03-28,Sandalias,13,577,Hombres,10
+2023-03-29,Botas,19,1527,Niños,5
+2023-03-30,Sandalias,1,494,Mujeres,8
+2023-03-31,Zapato deportivo,19,832,Hombres,5
+2023-04-01,Zapato casual,13,968,Hombres,8
+2023-04-02,Mocasines,16,1121,Mujeres,5
+2023-04-03,Sandalias,1,586,Hombres,11
+2023-04-04,Zapato casual,12,1008,Mujeres,7
+2023-04-05,Botas,10,1420,Mujeres,9
+2023-04-06,Botas,13,1510,Mujeres,8
+2023-04-07,Botas,14,1554,Mujeres,9
+2023-04-08,Zapato casual,18,946,Hombres,8
+2023-04-09,Sandalias,18,539,Hombres,10
+2023-04-10,Zapato casual,20,975,Niños,10
+2023-04-11,Zapato casual,8,982,Mujeres,8
+2023-04-12,Mocasines,16,1126,Niños,7
+2023-04-13,Mocasines,8,1120,Niños,5
+2023-04-14,Sandalias,9,483,Hombres,8
+2023-04-15,Mocasines,14,1269,Hombres,5
+2023-04-16,Botas,16,1475,Hombres,7
+2023-04-17,Mocasines,1,1178,Hombres,6
+2023-04-18,Botas,13,1514,Niños,11
+2023-04-19,Sandalias,11,554,Mujeres,9
+2023-04-20,Zapato casual,13,1083,Niños,8
+2023-04-21,Zapato casual,6,1009,Niños,11
+2023-04-22,Mocasines,15,1142,Hombres,10
+2023-04-23,Botas,5,1576,Mujeres,7
+2023-04-24,Zapato deportivo,20,813,Niños,5
+2023-04-25,Zapato deportivo,18,789,Hombres,8
+2023-04-26,Zapato deportivo,1,814,Hombres,11
+2023-04-27,Zapato casual,13,910,Mujeres,5
+2023-04-28,Zapato casual,19,1086,Niños,6
+2023-04-29,Botas,19,1490,Mujeres,8
+2023-04-30,Mocasines,1,1257,Mujeres,9
+2023-05-01,Zapato deportivo,3,811,Mujeres,8
+2023-05-02,Botas,14,1470,Niños,9
+2023-05-03,Botas,5,1563,Hombres,5
+2023-05-04,Mocasines,15,1114,Mujeres,8
+2023-05-05,Botas,6,1419,Mujeres,11
+2023-05-06,Mocasines,2,1271,Niños,7
+2023-05-07,Sandalias,9,563,Niños,10
+2023-05-08,Mocasines,13,1203,Hombres,7
+2023-05-09,Zapato deportivo,11,793,Hombres,6
+2023-05-10,Zapato deportivo,7,831,Mujeres,7
+2023-05-11,Mocasines,15,1291,Mujeres,11
+2023-05-12,Sandalias,11,573,Niños,6
+2023-05-13,Sandalias,11,440,Mujeres,5
+2023-05-14,Zapato deportivo,13,707,Niños,9
+2023-05-15,Sandalias,9,436,Mujeres,10
+2023-05-16,Botas,14,1555,Niños,5
+2023-05-17,Zapato casual,9,1073,Mujeres,9
+2023-05-18,Botas,3,1600,Mujeres,9
+2023-05-19,Zapato deportivo,16,812,Mujeres,6
+2023-05-20,Sandalias,1,408,Hombres,11
+2023-05-21,Mocasines,18,1132,Mujeres,7
+2023-05-22,Zapato casual,2,917,Mujeres,7
+2023-05-23,Mocasines,12,1160,Hombres,10
+2023-05-24,Zapato deportivo,8,899,Hombres,11
+2023-05-25,Sandalias,3,565,Mujeres,10
+2023-05-26,Mocasines,2,1193,Niños,11
+2023-05-27,Mocasines,1,1192,Mujeres,6
+2023-05-28,Zapato casual,8,998,Niños,6
+2023-05-29,Zapato casual,7,1045,Mujeres,5
+2023-05-30,Sandalias,1,408,Niños,6
+2023-05-31,Zapato casual,20,1054,Mujeres,7
+2023-06-01,Mocasines,5,1139,Hombres,6
+2023-06-02,Mocasines,8,1273,Niños,6
+2023-06-03,Zapato deportivo,5,815,Mujeres,9
+2023-06-04,Mocasines,16,1194,Mujeres,6
+2023-06-05,Sandalias,4,495,Hombres,11
+2023-06-06,Botas,19,1513,Niños,11
+2023-06-07,Zapato deportivo,7,895,Niños,10
+2023-06-08,Zapato deportivo,15,719,Niños,5
+2023-06-09,Sandalias,9,546,Hombres,6
+2023-06-10,Sandalias,12,435,Niños,11
+2023-06-11,Zapato casual,6,1035,Niños,10
+2023-06-12,Zapato deportivo,20,793,Mujeres,8
+2023-06-13,Zapato casual,20,1001,Mujeres,8
+2023-06-14,Mocasines,4,1180,Hombres,11
+2023-06-15,Zapato deportivo,6,866,Niños,9
+2023-06-16,Zapato deportivo,10,771,Mujeres,11
+2023-06-17,Botas,4,1463,Hombres,9
+2023-06-18,Zapato deportivo,19,729,Niños,8
+2023-06-19,Mocasines,1,1106,Hombres,10
+2023-06-20,Zapato casual,10,1088,Niños,9
+2023-06-21,Zapato casual,19,947,Mujeres,10
+2023-06-22,Botas,13,1527,Niños,10
+2023-06-23,Mocasines,13,1232,Niños,9
+2023-06-24,Zapato casual,7,999,Niños,7
+2023-06-25,Sandalias,3,543,Niños,11
+2023-06-26,Mocasines,19,1130,Hombres,10
+2023-06-27,Mocasines,8,1167,Niños,7
+2023-06-28,Botas,4,1598,Hombres,6
+2023-06-29,Zapato casual,10,966,Niños,8
+2023-06-30,Mocasines,20,1280,Niños,5
+2023-07-01,Zapato casual,4,1014,Hombres,8
+2023-07-02,Sandalias,19,454,Mujeres,8
+2023-07-03,Botas,2,1556,Mujeres,10
+2023-07-04,Sandalias,12,473,Hombres,7
+2023-07-05,Botas,18,1577,Niños,11
+2023-07-06,Mocasines,14,1225,Mujeres,7
+2023-07-07,Botas,12,1451,Niños,9
+2023-07-08,Zapato deportivo,3,731,Hombres,5
+2023-07-09,Zapato casual,17,934,Hombres,7
+2023-07-10,Zapato casual,11,918,Mujeres,9
+2023-07-11,Zapato deportivo,1,815,Mujeres,5
+2023-07-12,Sandalias,14,444,Niños,7
+2023-07-13,Zapato deportivo,16,882,Mujeres,8
+2023-07-14,Mocasines,4,1213,Hombres,8
+2023-07-15,Mocasines,14,1122,Hombres,5
+2023-07-16,Zapato casual,12,1074,Hombres,5
+2023-07-17,Mocasines,15,1181,Niños,7
+2023-07-18,Zapato casual,5,1070,Mujeres,11
+2023-07-19,Zapato deportivo,14,788,Niños,7
+2023-07-20,Zapato deportivo,6,881,Niños,5
+2023-07-21,Zapato deportivo,17,716,Mujeres,10
+2023-07-22,Zapato casual,9,1040,Hombres,11
+2023-07-23,Zapato deportivo,20,838,Mujeres,11
+2023-07-24,Zapato deportivo,18,774,Mujeres,5
+2023-07-25,Sandalias,16,476,Mujeres,9
+2023-07-26,Zapato deportivo,15,740,Niños,9
+2023-07-27,Mocasines,14,1282,Mujeres,9
+2023-07-28,Zapato casual,19,1081,Hombres,8
+2023-07-29,Sandalias,9,579,Mujeres,8
+2023-07-30,Botas,11,1563,Hombres,9
+2023-07-31,Zapato casual,8,944,Hombres,9
+2023-08-01,Mocasines,3,1192,Hombres,11
+2023-08-02,Zapato casual,9,1030,Niños,10
+2023-08-03,Mocasines,15,1157,Niños,5
+2023-08-04,Mocasines,8,1131,Niños,8
+2023-08-05,Botas,15,1451,Mujeres,11
+2023-08-06,Zapato casual,19,935,Niños,9
+2023-08-07,Botas,20,1460,Mujeres,10
+2023-08-08,Botas,13,1526,Hombres,6
+2023-08-09,Zapato casual,11,906,Mujeres,7
+2023-08-10,Zapato deportivo,1,792,Hombres,9
+2023-08-11,Zapato deportivo,16,841,Mujeres,8
+2023-08-12,Botas,11,1546,Niños,9
+2023-08-13,Sandalias,6,494,Hombres,6
+2023-08-14,Botas,16,1519,Mujeres,5
+2023-08-15,Botas,7,1541,Mujeres,8
+2023-08-16,Botas,12,1433,Niños,5
+2023-08-17,Zapato deportivo,9,856,Niños,11
+2023-08-18,Zapato deportivo,11,722,Niños,11
+2023-08-19,Zapato deportivo,9,716,Mujeres,7
+2023-08-20,Botas,20,1479,Niños,10
+2023-08-21,Sandalias,9,501,Mujeres,5
+2023-08-22,Zapato deportivo,18,883,Niños,9
+2023-08-23,Zapato casual,1,1084,Mujeres,10
+2023-08-24,Zapato casual,17,1022,Hombres,6
+2023-08-25,Zapato casual,7,1034,Niños,5
+2023-08-26,Mocasines,3,1205,Hombres,6
+2023-08-27,Botas,8,1596,Mujeres,10
+2023-08-28,Zapato casual,14,1004,Hombres,8
+2023-08-29,Botas,16,1547,Niños,8
+2023-08-30,Zapato casual,18,918,Niños,9
+2023-08-31,Sandalias,8,432,Mujeres,9
+2023-09-01,Botas,16,1481,Niños,9
+2023-09-02,Zapato casual,16,1064,Hombres,6
+2023-09-03,Zapato deportivo,15,718,Niños,7
+2023-09-04,Botas,1,1515,Hombres,7
+2023-09-05,Mocasines,3,1219,Niños,7
+2023-09-06,Zapato deportivo,10,874,Mujeres,8
+2023-09-07,Zapato deportivo,8,832,Niños,8
+2023-09-08,Mocasines,13,1188,Mujeres,11
+2023-09-09,Zapato deportivo,8,732,Niños,7
+2023-09-10,Zapato deportivo,10,899,Mujeres,10
+2023-09-11,Zapato casual,19,1041,Hombres,9
+2023-09-12,Zapato casual,12,1063,Hombres,5
+2023-09-13,Botas,16,1550,Hombres,11
+2023-09-14,Botas,18,1446,Hombres,10
+2023-09-15,Botas,17,1596,Mujeres,10
+2023-09-16,Zapato casual,12,933,Mujeres,7
+2023-09-17,Botas,14,1510,Hombres,5
+2023-09-18,Zapato deportivo,18,828,Hombres,7
+2023-09-19,Zapato casual,11,914,Hombres,5
+2023-09-20,Botas,12,1431,Niños,9
+2023-09-21,Zapato deportivo,15,832,Hombres,10
+2023-09-22,Botas,9,1439,Mujeres,8
+2023-09-23,Sandalias,10,477,Mujeres,7
+2023-09-24,Botas,9,1442,Mujeres,7
+2023-09-25,Sandalias,8,441,Niños,10
+2023-09-26,Botas,4,1482,Niños,11
+2023-09-27,Mocasines,7,1281,Niños,10
+2023-09-28,Botas,11,1457,Niños,9
+2023-09-29,Zapato casual,4,988,Mujeres,11
+2023-09-30,Zapato casual,18,1032,Niños,6
+2023-10-01,Sandalias,6,472,Niños,7
+2023-10-02,Zapato casual,7,920,Niños,5
+2023-10-03,Zapato deportivo,7,764,Hombres,9
+2023-10-04,Mocasines,16,1150,Mujeres,10
+2023-10-05,Mocasines,9,1262,Niños,6
+2023-10-06,Zapato deportivo,19,841,Hombres,7
+2023-10-07,Sandalias,17,470,Mujeres,7
+2023-10-08,Zapato deportivo,20,732,Niños,10
+2023-10-09,Zapato deportivo,10,860,Mujeres,10
+2023-10-10,Mocasines,4,1177,Mujeres,10
+2023-10-11,Botas,7,1557,Hombres,8
+2023-10-12,Mocasines,10,1236,Niños,6
+2023-10-13,Mocasines,8,1123,Mujeres,9
+2023-10-14,Zapato casual,12,1028,Hombres,10
+2023-10-15,Zapato deportivo,6,864,Mujeres,5
+2023-10-16,Mocasines,10,1143,Mujeres,7
+2023-10-17,Zapato deportivo,1,851,Hombres,9
+2023-10-18,Zapato casual,18,1048,Mujeres,8
+2023-10-19,Zapato deportivo,5,739,Hombres,10
+2023-10-20,Mocasines,9,1143,Niños,11
+2023-10-21,Zapato deportivo,2,868,Mujeres,7
+2023-10-22,Zapato casual,2,1059,Niños,11
+2023-10-23,Botas,18,1584,Niños,6
+2023-10-24,Zapato deportivo,10,854,Mujeres,10
+2023-10-25,Mocasines,5,1186,Hombres,10
+2023-10-26,Zapato casual,16,1044,Mujeres,11
+2023-10-27,Mocasines,4,1110,Mujeres,10
+2023-10-28,Mocasines,1,1107,Hombres,10
+2023-10-29,Zapato deportivo,19,720,Hombres,9
+2023-10-30,Mocasines,10,1111,Mujeres,5
+2023-10-31,Zapato deportivo,16,864,Hombres,10
+2023-11-01,Botas,16,1597,Niños,10
+2023-11-02,Mocasines,15,1247,Hombres,8
+2023-11-03,Mocasines,11,1167,Niños,9
+2023-11-04,Mocasines,6,1266,Niños,7
+2023-11-05,Sandalias,2,453,Niños,5
+2023-11-06,Sandalias,9,596,Hombres,7
+2023-11-07,Zapato casual,16,1046,Hombres,7
+2023-11-08,Sandalias,4,506,Mujeres,6
+2023-11-09,Zapato casual,3,1058,Hombres,6
+2023-11-10,Sandalias,13,563,Hombres,7
+2023-11-11,Botas,16,1407,Niños,11
+2023-11-12,Zapato casual,3,1027,Hombres,8
+2023-11-13,Sandalias,19,560,Hombres,6
+2023-11-14,Botas,2,1539,Niños,6
+2023-11-15,Sandalias,5,474,Hombres,6
+2023-11-16,Zapato deportivo,5,864,Niños,6
+2023-11-17,Zapato deportivo,19,777,Hombres,5
+2023-11-18,Botas,10,1523,Hombres,7
+2023-11-19,Mocasines,3,1162,Mujeres,11
+2023-11-20,Mocasines,8,1275,Hombres,11
+2023-11-21,Zapato deportivo,4,803,Niños,5
+2023-11-22,Zapato deportivo,18,776,Hombres,9
+2023-11-23,Mocasines,14,1216,Mujeres,11
+2023-11-24,Zapato casual,20,918,Hombres,9
+2023-11-25,Mocasines,20,1276,Hombres,11
+2023-11-26,Sandalias,20,415,Niños,10
+2023-11-27,Zapato casual,8,940,Mujeres,9
+2023-11-28,Sandalias,17,512,Hombres,5
+2023-11-29,Zapato deportivo,13,806,Hombres,10
+2023-11-30,Zapato casual,15,1023,Niños,7
+2023-12-01,Sandalias,15,518,Hombres,11
+2023-12-02,Sandalias,10,452,Hombres,9
+2023-12-03,Zapato casual,19,987,Hombres,6
+2023-12-04,Botas,14,1555,Mujeres,9
+2023-12-05,Mocasines,10,1136,Hombres,8
+2023-12-06,Sandalias,19,480,Niños,6
+2023-12-07,Mocasines,20,1283,Mujeres,6
+2023-12-08,Mocasines,2,1181,Hombres,6
+2023-12-09,Zapato deportivo,20,887,Hombres,11
+2023-12-10,Mocasines,4,1188,Mujeres,10
+2023-12-11,Sandalias,7,502,Hombres,11
+2023-12-12,Zapato deportivo,7,733,Hombres,9
+2023-12-13,Zapato casual,9,1094,Niños,11
+2023-12-14,Sandalias,3,494,Mujeres,6
+2023-12-15,Zapato deportivo,6,831,Niños,10
+2023-12-16,Zapato deportivo,8,843,Hombres,8
+2023-12-17,Mocasines,6,1127,Niños,5
+2023-12-18,Zapato casual,18,981,Hombres,8
+2023-12-19,Sandalias,3,461,Mujeres,7
+2023-12-20,Sandalias,6,519,Mujeres,10
+2023-12-21,Mocasines,1,1131,Mujeres,10
+2023-12-22,Zapato casual,14,968,Niños,6
+2023-12-23,Sandalias,15,515,Niños,8
+2023-12-24,Zapato casual,20,963,Hombres,9
+2023-12-25,Sandalias,16,436,Mujeres,7
+2023-12-26,Mocasines,10,1124,Niños,11
+2023-12-27,Botas,2,1412,Hombres,10
+2023-12-28,Sandalias,8,474,Niños,11
+2023-12-29,Zapato deportivo,10,798,Hombres,8
+2023-12-30,Zapato deportivo,10,857,Niños,6
+2023-12-31,Botas,15,1507,Niños,9
+2024-01-01,Sandalias,3,463,Niños,6
+2024-01-02,Zapato deportivo,8,740,Mujeres,7
+2024-01-03,Zapato deportivo,9,783,Mujeres,11
+2024-01-04,Sandalias,19,547,Niños,11
+2024-01-05,Zapato casual,7,1084,Hombres,8
+2024-01-06,Sandalias,14,480,Hombres,11
+2024-01-07,Zapato casual,4,948,Mujeres,6
+2024-01-08,Botas,18,1595,Mujeres,7
+2024-01-09,Mocasines,8,1140,Mujeres,10
+2024-01-10,Botas,5,1527,Niños,9
+2024-01-11,Mocasines,9,1231,Hombres,8
+2024-01-12,Zapato deportivo,5,819,Mujeres,8
+2024-01-13,Zapato deportivo,3,827,Niños,11
+2024-01-14,Zapato deportivo,2,778,Mujeres,7
+2024-01-15,Zapato casual,6,1027,Hombres,11
+2024-01-16,Mocasines,10,1105,Hombres,8
+2024-01-17,Zapato deportivo,20,723,Mujeres,9
+2024-01-18,Sandalias,19,500,Niños,9
+2024-01-19,Mocasines,10,1229,Hombres,8
+2024-01-20,Mocasines,15,1217,Hombres,6
+2024-01-21,Zapato casual,4,961,Hombres,11
+2024-01-22,Botas,15,1455,Mujeres,6
+2024-01-23,Zapato casual,10,1049,Niños,11
+2024-01-24,Zapato deportivo,13,790,Niños,9
+2024-01-25,Sandalias,9,412,Niños,6
+2024-01-26,Sandalias,17,412,Niños,11
+2024-01-27,Zapato deportivo,18,772,Niños,7
+2024-01-28,Sandalias,16,526,Mujeres,5
+2024-01-29,Zapato casual,15,1052,Mujeres,10
+2024-01-30,Zapato casual,3,1067,Niños,8
+2024-01-31,Zapato deportivo,20,872,Niños,11
+2024-02-01,Sandalias,2,520,Mujeres,7
+2024-02-02,Mocasines,14,1173,Mujeres,9
+2024-02-03,Botas,11,1537,Niños,5
+2024-02-04,Mocasines,20,1102,Niños,10
+2024-02-05,Zapato casual,9,927,Mujeres,11
+2024-02-06,Zapato casual,1,1010,Hombres,9
+2024-02-07,Zapato casual,3,934,Niños,11
+2024-02-08,Zapato casual,8,967,Hombres,5
+2024-02-09,Botas,19,1586,Niños,7
+2024-02-10,Zapato deportivo,19,793,Niños,5
+2024-02-11,Zapato casual,1,1095,Niños,11
+2024-02-12,Sandalias,9,503,Niños,6
+2024-02-13,Botas,19,1493,Hombres,7
+2024-02-14,Zapato casual,2,911,Mujeres,8
+2024-02-15,Sandalias,6,502,Mujeres,9
+2024-02-16,Zapato casual,16,913,Hombres,6
+2024-02-17,Zapato deportivo,17,845,Mujeres,11
+2024-02-18,Botas,15,1543,Mujeres,8
+2024-02-19,Zapato deportivo,9,749,Mujeres,5
+2024-02-20,Botas,6,1492,Mujeres,6
+2024-02-21,Zapato casual,19,1041,Mujeres,11
+2024-02-22,Zapato casual,14,973,Niños,8
+2024-02-23,Botas,16,1418,Hombres,7
+2024-02-24,Sandalias,3,498,Mujeres,5
+2024-02-25,Sandalias,16,529,Mujeres,8
+2024-02-26,Zapato casual,12,1015,Mujeres,5
+2024-02-27,Zapato casual,14,1095,Niños,8
+2024-02-28,Zapato deportivo,11,840,Mujeres,9
+2024-02-29,Zapato casual,11,971,Mujeres,7
+2024-03-01,Botas,4,1559,Hombres,6
+2024-03-02,Sandalias,6,574,Niños,8
+2024-03-03,Sandalias,11,556,Mujeres,5
+2024-03-04,Zapato deportivo,14,730,Hombres,7
+2024-03-05,Sandalias,16,432,Hombres,6
+2024-03-06,Sandalias,10,424,Hombres,5
+2024-03-07,Mocasines,13,1200,Hombres,7
+2024-03-08,Botas,18,1495,Mujeres,5
+2024-03-09,Mocasines,2,1186,Hombres,11
+2024-03-10,Sandalias,15,542,Niños,10
+2024-03-11,Zapato deportivo,3,793,Niños,10
+2024-03-12,Zapato deportivo,11,893,Mujeres,7
+2024-03-13,Sandalias,9,436,Hombres,11
+2024-03-14,Zapato casual,11,950,Niños,6
+2024-03-15,Mocasines,4,1254,Hombres,6
+2024-03-16,Sandalias,13,530,Niños,5
+2024-03-17,Zapato deportivo,17,802,Niños,7
+2024-03-18,Zapato deportivo,1,828,Niños,11
+2024-03-19,Mocasines,18,1110,Mujeres,8
+2024-03-20,Botas,15,1411,Niños,10
+2024-03-21,Sandalias,14,409,Hombres,11
+2024-03-22,Sandalias,2,435,Mujeres,6
+2024-03-23,Botas,7,1582,Mujeres,11
+2024-03-24,Mocasines,17,1185,Niños,10
+2024-03-25,Mocasines,12,1221,Mujeres,8
+2024-03-26,Zapato deportivo,20,832,Niños,8
+2024-03-27,Botas,16,1516,Hombres,9
+2024-03-28,Mocasines,15,1138,Mujeres,5
+2024-03-29,Zapato casual,2,1055,Niños,5
+2024-03-30,Sandalias,7,531,Mujeres,5
+2024-03-31,Zapato deportivo,9,735,Mujeres,7
+2024-04-01,Botas,18,1483,Hombres,6
+2024-04-02,Zapato deportivo,5,856,Niños,11
+2024-04-03,Mocasines,10,1181,Niños,6
+2024-04-04,Mocasines,15,1141,Hombres,9
+2024-04-05,Zapato casual,16,1000,Hombres,10
+2024-04-06,Sandalias,4,557,Niños,9
+2024-04-07,Botas,1,1589,Mujeres,9
+2024-04-08,Zapato deportivo,20,776,Hombres,8
+2024-04-09,Sandalias,8,551,Hombres,5
+2024-04-10,Mocasines,6,1186,Mujeres,11
+2024-04-11,Sandalias,10,529,Niños,7
+2024-04-12,Zapato deportivo,18,830,Mujeres,6
+2024-04-13,Sandalias,1,536,Hombres,7
+2024-04-14,Mocasines,18,1225,Mujeres,5
+2024-04-15,Sandalias,14,581,Niños,5
+2024-04-16,Botas,3,1544,Hombres,6
+2024-04-17,Sandalias,8,476,Mujeres,8
+2024-04-18,Botas,4,1521,Niños,10
+2024-04-19,Sandalias,15,404,Niños,11
+2024-04-20,Mocasines,4,1194,Niños,9
+2024-04-21,Zapato casual,5,984,Niños,8
+2024-04-22,Zapato casual,16,1072,Niños,5
+2024-04-23,Botas,10,1428,Niños,5
+2024-04-24,Botas,17,1506,Hombres,11
+2024-04-25,Zapato casual,9,1049,Niños,8
+2024-04-26,Mocasines,14,1178,Niños,9
+2024-04-27,Mocasines,16,1285,Niños,9
+2024-04-28,Sandalias,16,576,Mujeres,5
+2024-04-29,Botas,8,1561,Hombres,10
+2024-04-30,Mocasines,15,1106,Hombres,9
+2024-05-01,Zapato deportivo,18,852,Mujeres,9
+2024-05-02,Sandalias,5,521,Niños,6
+2024-05-03,Sandalias,13,467,Mujeres,10
+2024-05-04,Zapato casual,7,1067,Mujeres,6
+2024-05-05,Botas,20,1600,Mujeres,7
+2024-05-06,Mocasines,17,1298,Hombres,8
+2024-05-07,Mocasines,5,1248,Hombres,5
+2024-05-08,Sandalias,3,547,Hombres,9
+2024-05-09,Botas,9,1458,Niños,7
+2024-05-10,Botas,14,1584,Niños,6
+2024-05-11,Botas,11,1413,Mujeres,9
+2024-05-12,Zapato casual,17,1049,Hombres,8
+2024-05-13,Mocasines,9,1222,Hombres,6
+2024-05-14,Botas,1,1443,Niños,10
